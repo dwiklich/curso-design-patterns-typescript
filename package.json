@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "-": "0.0.1",
+    "@types/node": "^16.7.2",
     "@types/validator": "^13.6.3",
     "D": "^1.0.0",
     "validator": "^13.6.0"
